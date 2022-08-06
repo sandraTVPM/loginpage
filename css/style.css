@@ -1,0 +1,100 @@
+.outer{
+    background: url("../img/back.jpg");
+    background-size: cover;
+}
+.inner{
+    width: 50%;
+    height: 350px;
+    background-color: deepskyblue;
+    margin-top: 10%;
+    margin-left:21%;
+}
+.counter{
+    width: 100%;
+    height: 226px;
+    background-color:white;
+    position: relative;
+    top: 8%;
+    line-height: 3px;
+}
+.image{
+    width: 52px;
+    height: 38px;
+    margin-left: 250px;
+    margin-top: 14px;
+    display: inline;
+}
+
+.head{
+    color: white;
+    margin-left:0px;
+    margin-top: -35px;
+    display: inline;
+}
+.content1{
+    width: 50%;
+    height: 226px;
+    float: left;
+
+}
+.content2{
+    width: 50%;
+    height: 226px;
+    float: left;
+}
+.heading{
+    margin-left: 10px;
+}
+.para1{
+    color: blue;
+    margin-left: 10px;
+}
+.para2{
+    margin-left: 10px;
+}
+.para3{
+    margin-left: 10px;
+    line-height: 18px;
+}
+.para4{
+    margin-left: 10px;
+}
+.para5{
+    color:red;
+    margin-left: 10px;
+}
+.para6{
+    margin-left: 10px;
+}
+.para7{
+    color: green;
+    margin-left: 10px;
+}
+.para8{
+    margin-left: 10px;
+    line-height: 2px;
+}
+#bgcolor{
+  border:1px solid green;
+}
+.para8{
+    margin-left: 10px;
+    margin-top:10px;
+    
+}
+.para9{
+    margin-left: 200px;
+    color:blue;
+}
+.para10{
+    margin-left: 10px;
+    background-color: green;
+    height: 23px;
+    width: 300px;
+}
+.para11{
+    margin-left: 40px;
+    position: relative;
+    top:20px;
+    color: white;
+}
